@@ -2,42 +2,10 @@
 
 **Historian** is a clipboard manager designed for Linux, built with Flutter. It provides an intuitive user interface and powerful features to manage clipboard history efficiently.
 
-## Installation
 
-#### Clone the repository using the following command:
-
-```bash
-git clone https://github.com/iamkartiknayak/Flutter_Historian.git
-```
-
-#### Rename the project directory before running flutter commands
-
-```bash
-mv Flutter_Historian historian
-```
-
-#### Navigate to the project directory:
-
-```bash
-cd historian
-```
-
-```bash
-flutter pub get
-```
-
-#### Install wl-clipboard:
-
-```bash
-sudo apt install wl-clipboard zenity
-```
-
-#### Run the application:
-
-```bash
-flutter run
-```
-
+#### Requirements
+- wl-clipboard
+- zenity
 
 > ⚠️ **Image Support**  
 > Firefox-based browsers work out of the box.  
